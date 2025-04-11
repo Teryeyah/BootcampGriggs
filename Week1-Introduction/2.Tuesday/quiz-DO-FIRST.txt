@@ -1,0 +1,25 @@
+Review Quiz - Answer the following questions:
+
+1. In your own words, what is the command prompt?
+
+The command prompt is a tool that lets you type text commands to control your computer instead of clicking around with a mouse. It gives you direct access to run programs, move through files, and perform tasks quickly.
+
+2. What does the command "cd" stand for? change directory
+
+3. If I want to change my current directory to "C:/Bootcamp/SpringJavaBootcamp2025", what would I type? cd
+
+4. What command allows me to see all files in the current directory? dir
+
+5. What does "cd .." do? : change my file direction It moves you up one level to the parent directory of your current folder.
+
+6. In your own words what is Git? Is there a difference between GitHub and Git? Git is a tool developers use to track changes in their code. GitHub is a website where you can store and share your Git repositories online. 
+
+7. A collection of code and files in a single place of storage is called a :REPO
+
+8. What does the command "git clone" do? It copies a Git repository from GitHub
+
+
+9. What does the command "git pull" do? It downloads the latest changes from the remote repository
+
+BONUS
+10. What do you think the command "git push" does? pushes out the files to a source instead of pulling it in

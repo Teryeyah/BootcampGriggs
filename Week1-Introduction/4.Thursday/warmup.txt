@@ -1,0 +1,35 @@
+Part 1: String Concatenation with +
+
+Create two String variables: one for a person's name, and one for their favorite hobby.
+
+Print a sentence using + string concatenation that says something like:
+"Alex enjoys painting in their free time."
+You don't have to print this exact sentence, it's just an example.
+
+Part 2: Using printf with multiple types
+
+Create three variables:
+
+a String for a movie name
+
+an int for the release year
+
+a double for the rating (like 8.5)
+
+Use System.out.printf to print a sentence like:
+"Inception was released in 2010 and has a rating of 8.5."
+
+Part 1: public class Main {
+    public static void main(String[] args) {
+        // Part 1: String Concatenation with +
+        String name = "Teryeyah";
+        String hobby = "dancing";
+        System.out.println(name + " enjoys " + hobby + " in their free time.");
+
+        // Part 2: Using printf with multiple types
+        String movieName = "Inception";
+        int releaseYear = 2010;
+        double rating = 8.5;
+        System.out.printf("%s was released in %d and has a rating of %.1f.%n", movieName, releaseYear, rating);
+    }
+}
