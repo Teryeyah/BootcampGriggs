@@ -6,19 +6,19 @@ Your job: For each venue, brainstorm what kinds of data you could collect there.
 Venues:
 Grocery Store
 
-Airport
+Airport:How many carry ones , luggage's count, ETA ON Different Flights,
 
-Hospital
+Hospital: Total of Patients , IDs , Heart Rate
 
-School
+School: Student Count, Grades, Attendance, 
 
-Coffee Shop
+Coffee Shop: Sale count of people purchasing coffee and etc, 
 
-Movie Theater
+Movie Theater: Movie count , How many people attended the movie theater daily, food inventory
 
-Gym
+Gym: whats machines are working properly, gym snacks inventory, sign up count
 
-Music Streaming App
+Music Streaming App: Sign up count
 
 Online Clothing Store
 
@@ -42,3 +42,9 @@ Yes/No or True/False (e.g. is the order complete? is the seat taken?)
 Choices from a list (e.g. type of coffee, payment method, genre)
 
 For each piece of data you came up with, identify how it's stored or shown.
+
+Grocery Store
+Numbers: temperature is cool, pricing: affordable time: 24hrs
+
+Text: ALDI , Manager & Staff , 
+
